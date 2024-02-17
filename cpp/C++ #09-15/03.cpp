@@ -1,0 +1,16 @@
+/*
+  name        [ Valid | Good Practice ]
+  NAME        [ Valid | Bad Practice ]
+  1name       [ Not Valid ]
+  __name      [ Valid | Bad Practice ]
+  name@name   [ Not Valid ]
+  name10name  [ Valid | Bad Practice ]
+  name!name   [ Not Valid ]
+  first_NAME  [ Valid | Bad Practice ]
+  first_name  [ Valid | Bad Practice ]
+  firstName   [ Valid | Good Practice ]
+  first name  [ Not Valid ]
+  fn          [ Valid | Bad Practice ]
+  public      [ Not Valid ]
+  Public      [ Valid | Bad Practice ]
+*/
